@@ -1,0 +1,12 @@
+{
+	"name": "ie.itcarlow.cubefilter",
+	"version": "0.1.0",
+	"displayName": "CubeFilter",
+	"description": "A filter that cubes numbers.",
+	"unity": "2020.3",
+	"author": {
+		"name": "Ben Millar",
+		"email": "c00236772@itcarlow.ie",
+		"url": "https://github.com/ben-millar/"
+	}
+}

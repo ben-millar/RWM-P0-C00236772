@@ -1,0 +1,12 @@
+{
+	"name": "ie.itcarlow.decrementiflessthanfirst",
+	"version": "0.1.0",
+	"displayName": "DecrementIfLessThanFirst",
+	"description": "The first integer in the list is n. Decrement each integer if it's less than n.",
+	"unity": "2020.3",
+	"author": {
+		"name": "Ben Millar",
+		"email": "c00236772@itcarlow.ie",
+		"url": "https://github.com/ben-millar/"
+	}
+}
